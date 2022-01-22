@@ -1,7 +1,3 @@
-// Fona + Flora SMSsenger bag
-// receives and displays text messages on a 8x32 flex NeoPixel matrix
-// tutorial: https://learn.adafruit.com/flora-plus-fona
-
 //#include "Wire.h"
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
